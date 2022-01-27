@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50686113997",
+    "project_id": "blood-donor-bd-f7c1e",
+    "storage_bucket": "blood-donor-bd-f7c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50686113997:android:a9ef331024bc67fd509184",
+        "android_client_info": {
+          "package_name": "com.pushpal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50686113997-f6q3clr6kft02numufjl9qrffdtnbnnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKvqkrKvxRg2D5GLy9ywcSj-wtj34GPTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50686113997-f6q3clr6kft02numufjl9qrffdtnbnnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/coverpagenew"
+    android:layout_height="match_parent">
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="4dp"
+        app:adSize="BANNER"
+        android:layout_centerHorizontal="true"
+        app:adUnitId="@string/banner_ad_unit_id" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            >
+
+            <TextView
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:background="@drawable/boarder"
+                android:backgroundTint="@color/primary_dark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Why Should You Donate Blood?"
+                android:textSize="20dp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:textStyle="bold"
+                android:padding="8dp" />
+            <TextView
+                android:gravity="start"
+                android:layout_gravity="center"
+                android:background="@drawable/boarder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/info_"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:textStyle="normal"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:padding="8dp"/>
+
+            <TextView
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/primary_dark"
+                android:background="@drawable/boarder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:text="@string/eligibility_"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/white"
+
+                android:padding="8dp" />
+
+            <TextView
+                android:background="@drawable/boarder"
+                android:gravity="start"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/male_"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:padding="8dp"/>
+
+            <TextView
+                android:background="@drawable/boarder"
+                android:gravity="start"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:textSize="18sp"
+                android:layout_height="wrap_content"
+                android:text="@string/female_"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/black"
+                android:padding="8dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

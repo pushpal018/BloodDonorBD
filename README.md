@@ -10,7 +10,7 @@ Other features are
 
 
 # Screenshot
-![1](https://user-images.githubusercontent.com/98511373/151649411-c2650fe7-9126-4616-b7d7-dfe144e60b0a.png)
+![1](https://user-images.githubusercontent.com/98511373/151649411-c2650fe7-9126-4616-b7d7-dfe144e60b0a.png | width=100)
 ![2](https://user-images.githubusercontent.com/98511373/151649447-fc952162-f901-491a-b8f8-d01be648d1a6.png =250x250)
 ![3](https://user-images.githubusercontent.com/98511373/151649456-b9428ecf-a67d-48c6-be1b-94293df76ebc.png =250x250)
 ![4](https://user-images.githubusercontent.com/98511373/151649462-f42e4d85-91cd-4403-a6c1-d8d91a8439b5.png =250x250)

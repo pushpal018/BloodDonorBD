@@ -10,8 +10,8 @@ Other features are
 
 
 # Screenshot
-<img src="https://user-images.githubusercontent.com/98511373/151649411-c2650fe7-9126-4616-b7d7-dfe144e60b0a.png" width="300" height="500">
-<img[2] src="(https://user-images.githubusercontent.com/98511373/151649447-fc952162-f901-491a-b8f8-d01be648d1a6.png" width="300" height="500">
+!<img src="https://user-images.githubusercontent.com/98511373/151649411-c2650fe7-9126-4616-b7d7-dfe144e60b0a.png" width="300" height="500">
+!<img src="(https://user-images.githubusercontent.com/98511373/151649447-fc952162-f901-491a-b8f8-d01be648d1a6.png" width="300" height="500">
 
 ![2](https://user-images.githubusercontent.com/98511373/151649447-fc952162-f901-491a-b8f8-d01be648d1a6.png)
 ![3](https://user-images.githubusercontent.com/98511373/151649456-b9428ecf-a67d-48c6-be1b-94293df76ebc.png)

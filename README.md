@@ -1,6 +1,12 @@
 # Blood Donor BD
-The main function of Blood Donor BD App is to create and manage a platform for all blood donors of Bangladesh and removal of blood crisis problem for free.Other features are
-Find your nearest Donor,Search for blood,Post blood donation request,Opportunity to Add verified Donor & Edit you data anytime you want.
+The main function of Blood Donor BD App is to create and manage a platform for all blood donors of Bangladesh and removal of blood crisis problem for free.
+
+Other features are
+- Find your nearest Donor
+- Search for blood
+- Post blood donation request
+- Opportunity to Add verified Donor
+- Edit you data anytime you want.
 
 
 # Screenshot
